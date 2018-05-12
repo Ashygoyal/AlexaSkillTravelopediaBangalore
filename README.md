@@ -1,3 +1,5 @@
+**Please note that this skill is a- work under progress, will be updated soon**
+
 # AlexaSkillTravelopediaBangalore
 First of the Travelopedia series of Alexa skills, catering the city of Bangalore (Karnataka, India)
 
